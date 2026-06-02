@@ -1,0 +1,10 @@
+# Core
+streamlit>=1.35.0
+
+# OpenAI — single API key used by all pages including the Compliance Agent
+openai>=1.30.0
+
+# LangChain — used by all pages for LLM calls and the agent framework
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
