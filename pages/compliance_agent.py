@@ -1,3 +1,10 @@
+# ─────────────────────────────────────────────────────────────
+# AI Governance Assistant
+# Author: Abhinav Sahai | linkedin.com/in/absahai
+# GitHub: github.com/abhisahai/ai-governance-assistant
+# Licence: MIT © 2026
+# ─────────────────────────────────────────────────────────────
+
 """
 pages/compliance_agent.py
 Multi-step Compliance Agent — powered by LangChain AgentExecutor + GPT-4o.

@@ -1,3 +1,10 @@
+# ─────────────────────────────────────────────────────────────
+# AI Governance Assistant
+# Author: Abhinav Sahai | linkedin.com/in/absahai
+# GitHub: github.com/abhisahai/ai-governance-assistant
+# Licence: MIT © 2026
+# ─────────────────────────────────────────────────────────────
+
 """pages/risk_scorer.py — Multi-dimensional AI Risk Scoring."""
 
 import streamlit as st

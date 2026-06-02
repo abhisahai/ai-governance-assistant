@@ -1,3 +1,10 @@
+# ─────────────────────────────────────────────────────────────
+# AI Governance Assistant
+# Author: Abhinav Sahai | linkedin.com/in/absahai
+# GitHub: github.com/abhisahai/ai-governance-assistant
+# Licence: MIT © 2026
+# ─────────────────────────────────────────────────────────────
+
 """pages/audit_summaries.py — AI Audit Report Generator."""
 
 import json
